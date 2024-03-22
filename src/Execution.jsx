@@ -75,9 +75,9 @@ const Execution = () =>{
         </div>
         <div className="m-2">
         <CSVComponent />
-        <pre className="border border-dark-subtle">
+        {/* <pre className="border border-dark-subtle">
            Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, adipisci.
-        </pre>
+        </pre> */}
         </div>
        
         </div>
